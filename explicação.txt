@@ -10,9 +10,7 @@ a lei de Leblanc: "mais tarde é igual a nunca". Às vezes, as pessoas fazem iss
 importa o quão bom é o projeto de software, se ele não tiver um código legível e fácil de entender, ele vai fracassar. Além disso, os custos só aumentarão com o tempo, junto 
 com a baixa produtividade.
 
-    -Replanejamento
-
-    Quando o código fica um caos
+    -Quando o código fica um caos
 
     Já houve casos de códigos que passaram por tantos profissionais, e esses profissionais não tinham nenhuma noção de código limpo. Cada um fazia as coisas de um jeito não 
 padronizado, então o código ia virando um Frankenstein até que ninguém entendia nada. Por isso, muitos pediram para replanejar tudo. Normalmente, os gestores não gostam de 
@@ -20,6 +18,10 @@ fazer isso, pois exigirá mais tempo, custo e recursos humanos. Por ser um proje
 o mesmo problema de código sujo de antes. Já houve casos onde demorou mais de 10 anos até os profissionais conseguirem terminar o novo projeto, porque além de ter que fazer 
 um novo projeto, eles ainda tinham que continuar o antigo até que o novo fizesse as mesmas coisas do antigo.
 
+    -A regra do escoteiro
 
-
+    Os Escoteiros da América têm uma frase: "Deixe o acampamento mais limpo do que quando você o encontrou". Isso também se aplica à nossa profissão. Nós também podemos deixar 
+um código mais limpo e não precisamos fazer grandes mudanças. Se você conseguir mudar o nome de uma variável para algo com mais sentido, ou dividir uma função em partes 
+menores, e até diminuir o número de 'ifs' encadeados, tudo isso já vai dar uma melhora muito grande para o código. Com cada um fazendo sua parte, os benefícios são exponenciais 
+e até dá gosto e satisfação de trabalhar no projeto.
 
