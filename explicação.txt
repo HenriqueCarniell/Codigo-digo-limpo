@@ -1,12 +1,25 @@
                                                         Codigo Limpo habilidades de Agile Software
 
-    Capitulo 1:
+        Capitulo 1:
+
+    -Custo de código confuso
 
     O código limpo é um código fácil de entender, modificar e fazer manutenções. Ele tem funções, variáveis e métodos autoexplicativos, mesmo sem usar verbos. Ele ajuda muito 
 na hora de ser entendido pela equipe de desenvolvimento. Muitas vezes, as pessoas escrevem um código e depois dizem "mais tarde eu limpo esse código". Porém, de acordo com 
 a lei de Leblanc: "mais tarde é igual a nunca". Às vezes, as pessoas fazem isso porque estão cansadas do projeto, sob pressão da gestão, ou por qualquer outro motivo. Não 
 importa o quão bom é o projeto de software, se ele não tiver um código legível e fácil de entender, ele vai fracassar. Além disso, os custos só aumentarão com o tempo, junto 
 com a baixa produtividade.
+
+    -Replanejamento
+
+    Quando o código fica um caos
+
+    Já houve casos de códigos que passaram por tantos profissionais, e esses profissionais não tinham nenhuma noção de código limpo. Cada um fazia as coisas de um jeito não 
+padronizado, então o código ia virando um Frankenstein até que ninguém entendia nada. Por isso, muitos pediram para replanejar tudo. Normalmente, os gestores não gostam de 
+fazer isso, pois exigirá mais tempo, custo e recursos humanos. Por ser um projeto novo, todos querem fazer parte, mas apenas os melhores são escolhidos para que não aconteça 
+o mesmo problema de código sujo de antes. Já houve casos onde demorou mais de 10 anos até os profissionais conseguirem terminar o novo projeto, porque além de ter que fazer 
+um novo projeto, eles ainda tinham que continuar o antigo até que o novo fizesse as mesmas coisas do antigo.
+
 
 
 
