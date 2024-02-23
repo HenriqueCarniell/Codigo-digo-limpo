@@ -25,3 +25,41 @@ um código mais limpo e não precisamos fazer grandes mudanças. Se você conseg
 menores, e até diminuir o número de 'ifs' encadeados, tudo isso já vai dar uma melhora muito grande para o código. Com cada um fazendo sua parte, os benefícios são exponenciais 
 e até dá gosto e satisfação de trabalhar no projeto.
 
+        Capitulo 2:
+
+    -Nomes significativos
+
+    Na hora de escolher o nome de uma variavel é importante escolher um nome que revela o proposito da variavel
+
+        -Exemplo:
+
+// Bom
+let usuarioAtivo = true;
+let salarioMensal = 3000;
+let diasDaSemana = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado', 'Domingo'];
+let numeroDeFuncionarios = 10;
+
+// Ruim
+let a = true; // O que significa "a"?
+let s = 3000; // O que significa "s"?
+let d = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado', 'Domingo']; // O que significa "d"?
+let n = 10; // O que significa "n"?
+
+é sempre bom evitar:
+
+1)Nomes genéricos ou abreviados: Nomes como data, info, a, b, c não fornecem informações suficientes sobre o propósito da variável. É melhor usar nomes que descrevam claramente o que a variável representa.
+
+2)Nomes muito longos: Embora os nomes das variáveis devam ser descritivos, nomes excessivamente longos podem tornar o código difícil de ler. Tente encontrar um equilíbrio entre clareza e concisão.
+
+3)Uso inconsistente de maiúsculas e minúsculas: Em JavaScript, é comum usar camelCase para nomes de variáveis. A inconsistência no uso de maiúsculas e minúsculas pode levar a erros.
+
+4)Nomes que são palavras-chave reservadas: Em JavaScript, existem certas palavras-chave reservadas, como function, var, let, const, etc. Você deve evitar usar essas palavras-chave como nomes de variáveis.
+
+5)Números no início dos nomes das variáveis: Em muitas linguagens de programação, incluindo JavaScript, os nomes das variáveis não podem começar com números.
+
+6)Nomes de variáveis com espaços: Os nomes das variáveis não devem conter espaços. Em vez disso, você pode usar o sublinhado (_) ou o camelCase para separar as palavras em um nome de variável.
+
+7)Caracteres especiais: Evite usar caracteres especiais em nomes de variáveis, exceto o sublinhado (_) e o cifrão ($).
+
+8) Evite usar nomes de variaveis muito parecidos um com outros pois isso dificulta a leitura.
+
