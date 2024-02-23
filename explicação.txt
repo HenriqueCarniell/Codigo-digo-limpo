@@ -68,7 +68,7 @@ let n = 10; // O que significa "n"?
 Exemplos:
 Cliente, Conta...
 
--Nomes de metodos devem ter verbos
+-Nomes de metodos/funções devem ter verbos
 
 Exemplos:
 
