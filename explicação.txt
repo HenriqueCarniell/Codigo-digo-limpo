@@ -63,3 +63,13 @@ let n = 10; // O que significa "n"?
 
 8) Evite usar nomes de variaveis muito parecidos um com outros pois isso dificulta a leitura.
 
+-Nomes de Classes devem ter substantivos
+
+Exemplos:
+Cliente, Conta...
+
+-Nomes de metodos devem ter verbos
+
+Exemplos:
+
+Deletar Paginas, Postar Pagamentos, Salvar Dados 
